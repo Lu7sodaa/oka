@@ -337,6 +337,11 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 # Header
 --------------------------------------------------------------*/
 /* Custom Navmenu */
+
+.navlink {
+  font-size: 20px;
+}
+
 .custom-navmenu {
   background: #0d1e2d;
 }
@@ -361,8 +366,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   text-decoration: none;
 }
 
-.custom-navmenu .custom-menu li.active a {
+.custom-menu a {
   text-decoration: underline;
+  font-size: 2em !important;
 }
 
 .custom-navmenu h3 {

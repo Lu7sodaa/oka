@@ -9,9 +9,9 @@
 # General
 --------------------------------------------------------------*/
 body {
-  font-family: "bebas-neue-pro", monosapce;
+  font-family: "bebas-neue-pro",sans-serif;
   color: #0d1e2d;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 a {

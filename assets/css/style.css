@@ -8,10 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-body {
-  font-family: "bebas-neue-pro",sans-serif;
+p {
+  font-family: "bebas_neue_proSexpandedBk";
   color: #0d1e2d;
-  font-weight: 500;
+  /*font-weight: 500;*/
 }
 
 a {
@@ -23,8 +23,8 @@ a:hover {
 }
 
 h1, h2, h3, h4, h5, h6, .font-heading {
-  font-family: "bebas-neue-pro", sans-serif;
-  font-weight: 600;
+  font-family: "bebas_neue_probold", sans-serif;
+  /*font-weight: 600;*/
 }
 
 .section {
@@ -160,6 +160,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .testimonial-wrap .testimonial blockquote p {
   font-size: 20px;
+  font-family: "bebas_neue_proSexpandedBd";
 }
 
 .h3 {

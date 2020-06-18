@@ -177,6 +177,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   padding : 0rem !important;
 }
 
+.coll {
+  padding-top: 2rem;
+}
 
 
 .heading {
@@ -204,6 +207,33 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   text-decoration: none;
   background: #000;
 }
+
+
+.agency {
+  position: absolute;
+  right:    0;
+  bottom:   0;
+  display: inline-block;
+  border: 1px solid #000;
+  padding: 20px 25px;
+  /*margin-bottom: 20px;*/
+  text-transform: uppercase;
+  color: #000;
+  transition: .2s all ease;
+  font-family: 'bebas_neue_probook';
+  font-size: 1.1rem;
+  color: #fff;
+  text-decoration: none;
+  background: #000;
+}
+.agency:active, .agency:focus, .agency:hover {
+  outline: none;
+}
+.agency:hover {
+  color: black;
+  background-color : white;
+}
+
 
 .testimonial-carousel .owl-dots {
   position: absolute;

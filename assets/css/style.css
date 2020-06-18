@@ -174,7 +174,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .h4 {
   font-size: 16px;
+  padding : 0rem !important;
 }
+
+
 
 .heading {
   font-size: 28px;
@@ -349,7 +352,18 @@ h1, h2, h3, h4, h5, h6, .font-heading {
     background: linear-gradient(180deg,rgba(255,255,255,0) 50%, rgba(0,66,106,0.5) 50%);
     color : black;
 }
-
+.skoli:hover {
+  text-decoration: none;
+}
+.viseea:hover {
+  text-decoration: none;
+}
+.frv:hover {
+  text-decoration: none;
+}
+.bruce:hover {
+  text-decoration: none;
+}
 
 .viseea {
   background: linear-gradient(180deg,rgba(255,255,255,0) 50%, rgba(238,118,86,0.5) 50%);

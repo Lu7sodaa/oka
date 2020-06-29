@@ -292,7 +292,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .form-control {
   border-radius: 0;
-  background: rgba(80,147,174,0.7);
+  background: rgba(80,147,174,0.4);
   border: 1px solid transparent;
   padding-top: 10px !important;
   padding-bottom: 10px !important;
@@ -305,7 +305,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   border: 1px solid transparent;
 }
 #envoyer {
-  background: rgba(80,147,174,0.7);
+  background: rgba(80,147,174,0.4);
 }
 
 .custom-progress {

@@ -208,6 +208,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   background: #000;
 }
 
+.bold {
+  font-family: 'bebas_neue_proSexpandedBd';
+}
+
 
 .agency {
   position: absolute;

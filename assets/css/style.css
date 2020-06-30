@@ -166,8 +166,11 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 
 .testimonial-wrap .testimonial blockquote p {
-  font-size: 1.5em;
+  font-size: 1.3em;
   font-family: "bebas_neue_proSexpandedBd";
+}
+.manifesto {
+  font-size: 1.2em;
 }
 
 .h3 {
@@ -427,7 +430,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 
 .navlink {
   font-size: 20px;
-  font-family: "bebas_neue_proSexpandedRg";
+  font-family: "bebas_neue_proSexpandedmiddle";
 }
 
 .custom-navmenu {

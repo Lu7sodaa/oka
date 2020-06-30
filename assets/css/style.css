@@ -492,10 +492,19 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   }
 }
 
-.custom-navbar .navbar-brand {
-  font-size: 1.7rem;
-  font-family: "bebas_neue_proSexpandedBd";
+@media (max-width: 576px) {
+  .section {
+    padding: 0rem !important;
+  }
+  .agency {
+    padding: 10px 15px;
+  }
+  .footer {
+    margin-top: 2rem;
+  }
 }
+
+  
 
 /* Burger */
 .burger {

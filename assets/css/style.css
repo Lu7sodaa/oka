@@ -8,6 +8,10 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+.land {
+  max-height: 100vh;
+}
+
 p {
   font-family: "bebas_neue_proSexpandedBk";
   color: #0d1e2d;
@@ -29,20 +33,6 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   /*font-weight: 600;*/
 }
 
-video {
-  position: absolute;
-  top: 50%;
-  left: 50% ;
-  min-width: 100vh;
-  min-height: 100vh;
-  width: auto;
-  height: 101vh;
-  z-index: 0;
-  -ms-transform: translateX(-50%) translateY(-50%);
-  -moz-transform: translateX(-50%) translateY(-50%);
-  -webkit-transform: translateX(-50%) translateY(-50%);
-  transform: translateX(-50%) translateY(-50%);
-}
 
 
 .section {

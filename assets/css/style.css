@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .testimonial-wrap {
   margin-top: 3em;
   padding: 20px;
-  background: rgba(175,175,175,0.1);
+  background: black;
 }
 
 .testimonial-wrap .testimonial {
@@ -177,6 +177,7 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 .testimonial-wrap .testimonial blockquote p {
   font-size: 1.3em;
   font-family: "bebas_neue_proSexpandedBd";
+  color : white;
 }
 .manifesto {
   font-size: 1.2em;

@@ -31,8 +31,14 @@ h1, h2, h3, h4, h5, h6, .font-heading {
 }
 
 
+
 .section {
   padding: 6rem !important;
+}
+
+.sectionn {
+  padding: 6rem !important;
+  padding-bottom: 1rem !important;
 }
 
 .pt-0 {
@@ -195,6 +201,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   padding-top: 2rem;
 }
 
+hr {
+  margin: 20px 0 20px;
+  border: 2px solid black;
+}
 
 .heading {
   font-size: 28px;
@@ -435,6 +445,10 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   color : black;
 }
 
+.flot {
+  background: linear-gradient(180deg,rgba(255,255,255,0) 50%, rgba(0,0,0,0.5) 50%);
+  color : black;
+}
 
 /*--------------------------------------------------------------
 # Header

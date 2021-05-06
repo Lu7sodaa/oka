@@ -49,6 +49,9 @@ h1, h2, h3, h4, h5, h6, .font-heading {
   padding-bottom: 3rem !important;
 }
 
+.pt-33 {
+  margin : auto;
+}
 
 .filters a {
   color: #000;
